@@ -1,0 +1,3 @@
+student name : Fleur Albers
+student number : 631896
+student class : INF1SA

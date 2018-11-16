@@ -1,0 +1,5 @@
+http://fleuralbers.nl/sitemap.xml
+
+User-agent: *
+
+Disallow:  /inholland
